@@ -1,14 +1,8 @@
 ## Índice
+1. [Introduccion al desarrollo](#introduccion al desarrollo)
+2. [Comprensión errores compilación] (#comprension errores compilación)
+## Introducción al desarrollo
+Aquí todo el texto que quieras escribir.
+## Comprension errores compilación
+Aqui todo el texto que quieras o te apetezca escribir.
 
-1. [Introducción](#introducción)
-2. [Desarrollo](#desarrollo)
-3. [Conclusión](#conclusión)
-
-## Introducción
-Aquí puedes escribir la introducción de tu documento.
-
-## Desarrollo
-En esta sección, discutiremos el desarrollo de nuestro tema.
-
-## Conclusión
-Finalmente, presentaremos nuestras conclusiones y reflexiones.
