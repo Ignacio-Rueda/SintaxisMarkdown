@@ -1,10 +1,13 @@
 ## Índice
-1. [Introduccion al desarrollo](#introducción-al-desarrollo)
-2. [Comprensión errores compilación](#comprension-errores-compilación)
-## Introducción al desarrollo
-Aquí todo el texto que quieras escribir.
-Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño. El punto de usar Lorem Ipsum es que tiene una distribución más o menos normal de las letras, al contrario de usar textos como por ejemplo "Contenido aquí, contenido aquí". Estos textos hacen parecerlo un español que se puede leer. Muchos paquetes de autoedición y editores de páginas web usan el Lorem Ipsum como su texto por defecto, y al hacer una búsqueda de "Lorem Ipsum" va a dar por resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo. Muchas versiones han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito (por ejemplo insertándole humor y cosas por el estilo).
-## Comprension errores compilación
-Aqui todo el texto que quieras o te apetezca escribir.
-![Texto a mostrar si imagen no aparece](images/flower.jpg)
-
+1. [Sección-1](#seccion-1)
+2. [Sección-2](#seccion-2)
+    - [subseccion-2.1](#subseccion-2_1)
+    - [subseccion-2.2](#subseccion-2_2)
+## Seccion-1
+__texto en negrita__
+## seccion-2
+Texto para seccion 2
+## subseccion-2_1
+Texto para subseccion2.1
+## subseccion-2_2
+![texto alternarivo](images/flower.jpg)
