@@ -1,9 +1,14 @@
-**Índice**
-1. [Primer apartado](#id1)
-2. [Segundo apartado](#id2)
-<div id='id1' />
-## Primer apartado
-Texto del primer apartado
-<div id='id2' />
-## Segundo apartado
-Texto del segundo apartado
+## Índice
+
+1. [Introducción](#introducción)
+2. [Desarrollo](#desarrollo)
+3. [Conclusión](#conclusión)
+
+## Introducción
+Aquí puedes escribir la introducción de tu documento.
+
+## Desarrollo
+En esta sección, discutiremos el desarrollo de nuestro tema.
+
+## Conclusión
+Finalmente, presentaremos nuestras conclusiones y reflexiones.
